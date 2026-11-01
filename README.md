@@ -26,9 +26,13 @@ LINK TO CAD FILE --> https://gmail4552548.autodesk360.com/g/shares/SH28cd1QT2bad
 
 ## Team Contributions
 [Emily Wassef] --> Research & Product Design
+
 [Angela Huang] --> Research & Product Design
+
 [Michelle Jin] --> Product & CAD Design
+
 [Smera Minajagi] --> Website Design
+
 [Addia Roy] --> Video Editing & Social Media
 
 ## Recognition
