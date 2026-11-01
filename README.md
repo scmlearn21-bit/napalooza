@@ -22,10 +22,12 @@ Our team worked on different aspects of the product, including:
 - Website and video pitch
 - Social Media presence
 
+LINK TO CAD FILE --> https://gmail4552548.autodesk360.com/g/shares/SH28cd1QT2badd0ea72b02a367163f83f222
+
 ## Team Contributions
 [Emily Wassef] --> Research & Product Design
 [Angela Huang] --> Research & Product Design
-[Michelle Jin] --> CAD Design
+[Michelle Jin] --> Product & CAD Design
 [Smera Minajagi] --> Website Design
 [Addia Roy] --> Video Editing & Social Media
 
